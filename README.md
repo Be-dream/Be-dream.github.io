@@ -41,7 +41,7 @@ Javascript
 
 ### Useful resources
 
-- [W3schools](https://www.w3schools.com/css/default.asp) - This website has been helpful to renforce the knowledge I have acquire so far. 
+- [W3schools](https://www.w3schools.com/css/default.asp) - This website has been helpful to reinforce the knowledge I have acquire so far. 
 
 ## Author
 
