@@ -15,11 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-I took bar code challenge from frontendmentor.io to practice the skills I am learning to become a front en developer.
+
 
 ### Screenshot
 
-![](./Screenshot_barcode)
+./Screenshot_barcode
 
 
 ### Links
